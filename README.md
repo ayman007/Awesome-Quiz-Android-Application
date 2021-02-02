@@ -6,7 +6,7 @@ It also display the wrong and correct answers after the user made it’s choice or
 
 <img src="./image1.jpg">
 <img src="./image2.jpg">
-<img src="./iamge3.jpg">
+<img src="./image3.jpg">
 <img src="./image4.jpg">
 
 ## Overview
